@@ -1,0 +1,30 @@
+_repo: Peggy-Stewart-at-School_22113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, Gabrielle E. (Gabrielle Emilie)
+    birthdate: 1861
+    gutenberg_agent_id: '1855'
+    url: http://www.gutenberg.org/2009/agents/1855
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States Naval Academy -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Children of military personnel -- Fiction'
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcsh 'Young women -- Education -- Fiction'
+- !lcsh 'Maryland -- Fiction'
+title: Peggy Stewart at School
+url: http://www.gutenberg.org/ebooks/22113
